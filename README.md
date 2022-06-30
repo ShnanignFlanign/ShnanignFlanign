@@ -9,7 +9,7 @@ I'm a former amateur Muay Thai fighter and head coach, who switched paths to pur
 How to reach me:
 - (will post links once my LinkedIn page is competent enough)
 
-Future portfolio link beloe:
+Future portfolio link below:
 
 
 <!---
