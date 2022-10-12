@@ -7,9 +7,8 @@ I'm a former amateur Muay Thai fighter and head coach, who switched paths to pur
   - Completing the Software Engineering Immersive bootcamp course at General Assembly
  
 How to reach me:
-- https://www.linkedin.com/in/seanflanagan-pg/
-
-Portfolio: https://shnanignflanign.github.io/Portfolio/
+- LinkedIn: https://www.linkedin.com/in/seanflanagan-pg/
+- Portfolio: https://shnanignflanign.github.io/Portfolio/
 
 
 <!---
