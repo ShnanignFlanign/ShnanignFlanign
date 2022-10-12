@@ -4,12 +4,12 @@ I'm a former amateur Muay Thai fighter and head coach, who switched paths to pur
 🌱 I’m currently: 
   - Completing my Associate's degree in software development 
   - (to ultimately complete a bachelor's in computer science) 
-  - I'm simultaneously enrolled in a software engineering bootcamp course at General Assembly
+  - Completing the Software Engineering Immersive bootcamp course at General Assembly
  
 How to reach me:
-- (will post links once my LinkedIn page is competent enough)
+- https://www.linkedin.com/in/seanflanagan-pg/
 
-Future portfolio link below:
+Portfolio: https://shnanignflanign.github.io/Portfolio/
 
 
 <!---
